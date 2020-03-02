@@ -30,8 +30,8 @@ To test our demo shop, please visit: https://prestashop.novalnet.de
 ## Contact
 Novalnet AG<br>
 Zahlungsinstitut (ZAG)<br>
-Gutenbergstr. 2<br>
-85737 Ismaning<br>
+Feringastr. 4 <br>
+85774 Unterföhring <br>
 Deutschland<br>
 E-mail: sales@novalnet.de<br>
 Tel: +49 89 9230683-20<br>
