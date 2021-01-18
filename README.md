@@ -23,7 +23,7 @@ Through the individuality and flexibility, you can choose which payment methods 
 * Find currently supported payment methods on https://www.novalnet.de/zahlungsabwicklung-und-online-zahlungsabwicklung-mit-der-novalnet-realisieren
 
 ## More information
-Find more about PrestaShop module on: https://www.novalnet.de/site_pdf/IG-Prestashop_1.7.1.0-1.7.7.0_novalnet_11.3.4_EN.pdf<br>
+Find more about PrestaShop module on: https://www.novalnet.de/site_pdf/IG-Prestashop_1.7.1.0-1.7.7.1_novalnet_11.3.4_EN.pdf<br>
 To test our demo shop, please visit: https://prestashop.novalnet.de
 
 ## Contact
