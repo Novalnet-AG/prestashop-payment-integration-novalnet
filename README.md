@@ -9,7 +9,7 @@ Through the individuality and flexibility, you can choose which payment methods 
 
 ## Important functions for PrestaShop
 * Seamless and fast integration of the payment module
-* Easy configuration for all payment methods
+* Easy configuration of all local and international payment methods
 * One platform for all relevant payment types and related services
 * More than 50 fraud prevention modules integrated to prevent risk in real-time
 * Comprehensive affiliate system with automated split conversion of transaction on revenue sharing
@@ -25,6 +25,14 @@ Through the individuality and flexibility, you can choose which payment methods 
 ## More information
 Find more about PrestaShop module on: https://www.novalnet.de/site_pdf/IG-Prestashop_1.7.1.0-1.7.7.1_novalnet_11.3.4_EN.pdf<br>
 To test our demo shop, please visit: https://prestashop.novalnet.de
+
+## Installation
+Follow the below steps to install the <a href="https://www.novalnet.com/modul/prestashop-payment-module"> Prestashop payment module</a>.
+1. Download the payment module for prestashop from <a href="https://addons.prestashop.com/en/payment-card-wallet/27259-novalnet-payment.html"> here</a>.
+2. Upload and install the module in the shop admin panel.
+3. Configure the API keys in the Administration portal.
+4. Enable and activate the payment methods.
+
 
 ## Contact
 Novalnet AG<br>
