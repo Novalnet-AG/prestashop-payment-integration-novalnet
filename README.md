@@ -28,7 +28,7 @@ To test our demo shop, please visit: https://prestashop.novalnet.de
 
 ## Installation
 Follow the below steps to install the <a href="https://www.novalnet.com/modul/prestashop-payment-module"> Prestashop payment module</a>.
-1. Download the payment module for prestashop from <a href="https://addons.prestashop.com/en/payment-card-wallet/27259-novalnet-payment.html"> here</a>.
+1. Download the payment module for prestashop from <a href="https://addons.prestashop.com/en/payment-card-wallet/27259-novalnet-payment.html"> here</a> or <a href="https://www.novalnet.de/kontakt/sales"> contact us</a>.
 2. Upload and install the module in the shop admin panel.
 3. Configure the API keys in the Administration portal.
 4. Enable and activate the payment methods.
