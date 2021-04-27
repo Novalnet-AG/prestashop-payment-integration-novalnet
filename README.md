@@ -1,5 +1,5 @@
 # NOVALNET PAYMENT MODULE FOR PRESTASHOP
-Novalnet payment module for PrestaShop simplifies your daily work by automating the entire payment process, from checkout till collection. This module is designed to help you increase your sales by offering various payment methods on a one-page checkout. The module which is perfectly adjusted to the PrestaShop with top-quality range of services of the payment provider.
+Novalnet payment module for <a href="https://www.novalnet.com/modul/prestashop-payment-module">PrestaShop</a> simplifies your daily work by automating the entire payment process, from checkout till collection. This module is designed to help you increase your sales by offering various payment methods on a one-page checkout. The module which is perfectly adjusted to the PrestaShop with top-quality range of services of the payment provider.
 
 Novalnet payment module for PrestaShop is available in <b>EN, DE</b>
 
