@@ -1,0 +1,67 @@
+*** Changelog ***
+
+= 11.4.0 - 2022.05.20
+* New  - Payment module support for Multishop
+* New  - Added "state" parameter in the payment request
+* Fix  - Compatibility for Prestashop 1.7.8.6
+* Enhanced - Credit Card iframe has been optimized
+* Enhanced - Updated payment logo for sofort payment
+* Enhanced - Callback has been optimized as per the new testcase
+* Removed  - Proxy server configuration
+* Removed  - Gateway timeout configuration
+* Removed  - PIN by callback and PIN by SMS for Direct Debit SEPA and Invoice payment methods
+
+= 11.3.4 - 2020.12.24
+* Fix      - Compatibility for PrestaShop 1.7.7.0
+* Fix      - Chrome SameSite cookies
+* Enhanced - Barzahlen payment name and logo
+* Enhanced - Callback has been optimized as per the new testcase
+
+= 11.3.3 - 2020.10.30
+* Fix	   - Barzahlen checkout token URL
+
+= 11.3.2 - 2020.09.30
+* Fix	   - Compatible issue for Prestashop 1.7.6.0
+
+= 11.3.1 - 2019.05.30
+* Enhanced - Novalnet payment module has been optimized as per new test case
+
+= 11.3.0 - 2019.04.29 =
+
+* New      - Notify end customer for storing card / Account information
+* New      - Customized the payment logo
+* Enhanced - Implemented new encryption method for redirect payments
+* Enhanced - Guaranteed payment minimum amount reduced to 9.99 EUR
+* Enhanced - Auto configuration call perform via cURL method
+* Enhanced - Novalnet payment plugin has been optimized as per new test case
+* Enhanced - Adjusted the payment module for IPV6 condition
+* Enhanced - Callback has been optimized as per the new testcase
+* Removed  - Autofill and Payment refill for payment data
+* Removed  - BIC field for Direct Debit SEPA
+* Removed  - Payment reference configuration for Invoice / prepayment
+* Removed  - Dynamic subscription management
+* Removed  - Transaction reference in payments
+
+= 11.2.4 - 2018.10.05 =
+* Enhanced - Guaranteed payment pending status has been implemented
+* Enhanced - Callback has been optimized as per the new testcase
+
+= 11.2.3 - 2018.01.31 =
+* New      - Custom checkout overlay for Barzahlen
+* New 	   - Force 3D secure process has been implemented as per predefined filters and settings in the Novalnet admin portal
+* Enhanced - Due date update notification in the shop, on activation of transaction for Invoice, Invoice with payment guarantee and Prepayment
+* Enhanced - On-hold transaction configuration has been implemented for Credit Card, Direct Debit SEPA, Direct Debit SEPA with payment guarantee, Invoice, Invoice with payment guarantee and PayPal
+* Enhanced - Optimized IP condition check for remote address
+
+= 11.2.2 - 2017.11.22 =
+* Enhanced - Dynamic IP control applied through domain instead of static IP in vendor script. Actual IP of Novalnet will be extracted in real time from the domain 
+
+= 11.2.1 - 2017.09.14 =
+* New        - Implemented Barzahlen payment method
+* Enhanced   - Optimized vendor script validation
+* Removed    - Refund with account details from shop admin
+* Removed    -  Enable debug mode configuration in Merchant script management
+* Compatible - Checked for PrestaShop version upto 1.7.2.4 
+
+= 11.2.0 - 2017.07.29 =
+* - New release
