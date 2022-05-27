@@ -1,6 +1,6 @@
 *** Changelog ***
 
-= 11.4.0 - 2022.05.25
+= 11.4.0 - 2022.05.27
 * New - Payment module support for Multishop
 * New - Added "state" parameter in the payment request
 * Fix - Compatibility for Prestashop 1.7.8.6
