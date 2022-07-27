@@ -2,7 +2,7 @@
 Novalnet payment module for <a href="https://www.novalnet.com/modul/prestashop-payment-module">PrestaShop</a> simplifies your daily work by automating the entire payment process, from checkout till collection. This module is designed to help you increase your sales by offering various payment methods on a one-page checkout. The module which is perfectly adjusted to the PrestaShop with top-quality range of services of the payment provider.
 
 ## Integration requirements for PrestaShop
-The module is available for the PrestaShop versions 1.6.1.8 to 1.6.1.24 & 1.7.6.0 to 1.7.8.7 in the following languages: <b>EN, DE</b>
+The module is available for the PrestaShop versions 1.6.1.8 to 1.6.1.24 & 1.7.6.0 to 1.7.8.7 in the following languages: <b>EN & DE</b>
 
 Through the individuality and flexibility, you can choose which payment methods and services you need. Get now a seamless integration with the various types of payments and payment-related services integrated in the one unique platform.
 
