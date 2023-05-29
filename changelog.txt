@@ -1,9 +1,11 @@
 *** Changelog ***
+= 11.4.1   - 2023.05.29
+* Fix      - Compatibility for Prestashop 8.0.4
 
-= 11.4.0 - 2022.05.27
-* New - Payment module support for Multishop
-* New - Added "state" parameter in the payment request
-* Fix - Compatibility for Prestashop 1.7.8.6
+= 11.4.0   - 2022.05.27
+* New      - Payment module support for Multishop
+* New      - Added "state" parameter in the payment request
+* Fix      - Compatibility for Prestashop 1.7.8.6
 * Enhanced - Credit Card iframe has been optimized
 * Enhanced - Updated payment logo for sofort payment
 * Enhanced - Callback has been optimized as per the new testcase
@@ -11,14 +13,14 @@
 * Removed  - Gateway timeout configuration
 * Removed  - PIN by callback and PIN by SMS for Direct Debit SEPA and Invoice payment methods
 
-= 11.3.4 - 2020.12.24
-* Fix - Compatibility for PrestaShop 1.7.7.0
-* Fix - Chrome SameSite cookies
+= 11.3.4   - 2020.12.24
+* Fix      - Compatibility for PrestaShop 1.7.7.0
+* Fix      - Chrome SameSite cookies
 * Enhanced - Barzahlen payment name and logo
 * Enhanced - Callback has been optimized as per the new testcase
 
-= 11.3.3 - 2020.10.30
-* Fix - Barzahlen checkout token URL
+= 11.3.3   - 2020.10.30
+* Fix      - Barzahlen checkout token URL
 
 = 11.3.2 - 2020.09.30
 * Fix - Compatible issue for Prestashop 1.7.6.0
