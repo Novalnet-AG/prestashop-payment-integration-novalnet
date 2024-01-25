@@ -1,4 +1,7 @@
 *** Changelog ***
+= 13.0.0   - 2024.01.25
+* Major version release: We've improved the seamless customer experience and brand configurations in the Novalnet Merchant Admin Portal to make it easier to preview and customise the checkout page
+
 = 11.4.1   - 2023.05.29
 * Fix      - Compatibility for Prestashop 8.0.4
 
