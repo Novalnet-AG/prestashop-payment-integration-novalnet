@@ -2,7 +2,7 @@
 Novalnet payment module for <a href="https://www.novalnet.com/modul/prestashop-payment-module">PrestaShop</a> simplifies your daily work by automating the entire payment process, from checkout till collection. This module is designed to help you increase your sales by offering various payment methods on a one-page checkout. The module which is perfectly adjusted to the PrestaShop with top-quality range of services of the payment provider.
 
 ## Integration requirements for PrestaShop
-The module is available for the PrestaShop versions 1.6.1.8 to 8.1.2 in the following languages: <b>EN & DE</b>
+The module is available for the PrestaShop versions 1.6.1.8 to 8.1.3 in the following languages: <b>EN & DE</b>
 
 Through the individuality and flexibility, you can choose which payment methods and services you need. Get now a seamless integration with the various types of payments and payment-related services integrated in the one unique platform.
 
@@ -23,11 +23,16 @@ Through the individuality and flexibility, you can choose which payment methods 
 
 ## Integrated payment methods
 - Direct Debit SEPA
-- Credit/Debit Cards 
-- Invoice 
+- Direct Debit ACH
+- Credit/Debit Cards
+- Apple Pay
+- Google Pay
+- Invoice
 - Prepayment
 - Invoice with payment guarantee
 - Direct Debit SEPA with payment guarantee
+- Instalment by Invoice
+- Instalment by Direct Debit SEPA
 - iDEAL
 - Sofort
 - giropay
@@ -35,6 +40,17 @@ Through the individuality and flexibility, you can choose which payment methods 
 - Przelewy24
 - eps
 - PayPal
+- MB Way
+- PostFinance Card
+- PostFinance E-Finance
+- Bancontact
+- Multibanco
+- Online bank transfer
+- Alipay
+- WeChat Pay
+- Trustly
+- Blik
+- Payconiq
 
 ## More information
 Find more about PrestaShop module on: https://www.novalnet.de/site_pdf/IG-Prestashop_1.7.6.0-8.1.2_novalnet_11.4.1.pdf<br>
@@ -45,7 +61,7 @@ Follow the below steps to install the <a href="https://www.novalnet.com/modul/pr
 1. Download the payment module for prestashop from <a href="https://addons.prestashop.com/en/payment-card-wallet/27259-novalnet-payment.html"> here</a> or <a href="https://www.novalnet.de/kontakt/sales"> contact us</a>.
 2. Upload and install the module in the shop admin panel.
 3. Configure the API keys in the Administration portal.
-4. Enable and activate the payment methods.
+4. Enable and activate the payment methods from <a href="https://admin.novalnet.de/"> Novalnet Admin Portal</a>.
 
 ## Contact
 Novalnet AG<br>
