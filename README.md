@@ -2,24 +2,33 @@
 Novalnet payment module for <a href="https://www.novalnet.com/modul/prestashop-payment-module">PrestaShop</a> simplifies your daily work by automating the entire payment process, from checkout till collection. This module is designed to help you increase your sales by offering various payment methods on a one-page checkout. The module which is perfectly adjusted to the PrestaShop with top-quality range of services of the payment provider.
 
 ## Integration requirements for PrestaShop
-The module is available for the PrestaShop versions 1.6.1.8 to 8.1.3 in the following languages: <b>EN & DE</b>
+The module is available for the PrestaShop versions 1.6.1.8 to 8.1.4 in the following languages: <b>EN & DE</b>
 
 Through the individuality and flexibility, you can choose which payment methods and services you need. Get now a seamless integration with the various types of payments and payment-related services integrated in the one unique platform.
 
 ## Important functions for PrestaShop
 * Seamless and fast integration of the payment module
-* Easy configuration of all local and international payment methods
+* Easy configuration for all payment methods
 * One platform for all relevant payment types and related services
+* Complete automation of all payment processes
 * More than 50 fraud prevention modules integrated to prevent risk in real-time
+* Effortless configuration of risk management with fraud prevention
 * Comprehensive affiliate system with automated split conversion of transaction on revenue sharing
-* Multilevel claims management with integrated handover to collection and various export functions for the Accounting
+* No PCI DSS certification required when using our payment module
+* Real-time monitoring of the transaction flow from the checkout to the receivables
+* Multilevel claims management with integrated handover to collection and various export functions for the accounting
 * Automated e-mail notification function concerning payment status reports
+* Clear real-time overview and monitoring of payment status
 * Automated bookkeeping report in XML, SOAP, CSV, MT940
-* PCI compliant hosted page 
-* No PCI DSS certification required
+* Seamless and fast integration of the payment module
 * Secure SSL- encoded gateways
-* Easy way of managing ‘on-hold’ transactions (cancel or capture) and refunds (partial, full)
-* Find currently supported payment methods on https://www.novalnet.de/zahlungsabwicklung-und-online-zahlungsabwicklung-mit-der-novalnet-realisieren
+* Seamless checkout Iframe integration
+* One click shopping supported Credit/Debit Cards & Direct Debit SEPA
+* Zero amount authorization supported for Credit/Debit Cards, Direct Debit SEPA, Direct Debit ACH, Apple Pay & Google Pay
+* Easy way of confirmation and cancellation of on-hold transactions for Direct Debit SEPA, Direct Debit SEPA with payment guarantee, Instalment payment for Direct Debit SEPA, Credit/Debit Cards, Invoice, Invoice with payment guarantee, Instalment payment for Invoice, Prepayment, PayPal, Apple Pay & Google Pay
+* Refund option for Credit/Debit Cards, Direct Debit SEPA, Direct Debit ACH, Direct Debit SEPA with payment guarantee, Instalment by Direct Debit SEPA, Invoice, Invoice with payment guarantee, Instalment by Invoice, Prepayment, Barzahlen/viacash, Sofort, iDEAL, eps, giropay, PayPal, MB Way, Przelewy24, PostFinance Card, PostFinance E-Finance, Bancontact, Apple Pay, Google Pay, Online bank transfer, Alipay, WeChat pay, Trustly, Blik & Payconiq
+* Responsive templates
+
 
 ## Integrated payment methods
 - Direct Debit SEPA
@@ -53,7 +62,7 @@ Through the individuality and flexibility, you can choose which payment methods 
 - Payconiq
 
 ## More information
-Find more about PrestaShop module on: https://www.novalnet.de/site_pdf/IG-Prestashop_1.7.8.11-8.1.3_novalnet_13.0.1.pdf<br>
+Find more about PrestaShop module on: https://www.novalnet.de/site_pdf/IG-Prestashop_1.7.8.11-8.1.4_novalnet_13.0.1.pdf<br>
 To test our demo shop, please visit: https://prestashop.novalnet.de
 
 ## Installation
