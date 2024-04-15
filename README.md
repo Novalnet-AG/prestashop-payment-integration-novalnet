@@ -29,7 +29,6 @@ Through the individuality and flexibility, you can choose which payment methods 
 * Refund option for Credit/Debit Cards, Direct Debit SEPA, Direct Debit ACH, Direct Debit SEPA with payment guarantee, Instalment by Direct Debit SEPA, Invoice, Invoice with payment guarantee, Instalment by Invoice, Prepayment, Barzahlen/viacash, Sofort, iDEAL, eps, giropay, PayPal, MB Way, Przelewy24, PostFinance Card, PostFinance E-Finance, Bancontact, Apple Pay, Google Pay, Online bank transfer, Alipay, WeChat pay, Trustly, Blik & Payconiq
 * Responsive templates
 
-
 ## Integrated payment methods
 - Direct Debit SEPA
 - Direct Debit ACH
@@ -72,11 +71,13 @@ Follow the below steps to install the <a href="https://www.novalnet.com/modul/pr
 3. Configure the API keys in the Administration portal.
 4. Enable and activate the payment methods from <a href="https://admin.novalnet.de/"> Novalnet Admin Portal</a>.
 
-## Contact
+## Documentation & Support
+For more information about the PrestaShop Payment Integration by Novalnet, please get in touch with us: <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20<br>
+
 Novalnet AG<br>
 Zahlungsinstitut (ZAG)<br>
-Feringastr. 4 <br>
-85774 Unterföhring <br>
+Gutenbergstraße 7<br>
+D-85748 Garching<br>
 Deutschland<br>
 E-mail: sales@novalnet.de<br>
 Tel: +49 89 9230683-20<br>
