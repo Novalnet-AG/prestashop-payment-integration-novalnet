@@ -1,4 +1,10 @@
 *** Changelog ***
+
+= 13.0.2   - 2024.06.03
+* Fix - Compatibility for prestashop version 8.1.6
+* Fix - Database for the Paid_amount column has been appropriately handled during the payment module upgrade
+* Enhanced - Optimized the Callback/Webhook process for fetching Dynamic IP
+
 = 13.0.1   - 2024.02.13
 * Fix      - Plugin made compatible for PHP version 8.1
 
