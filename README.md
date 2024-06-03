@@ -61,7 +61,7 @@ Through the individuality and flexibility, you can choose which payment methods 
 - Payconiq
 
 ## More information
-Find more about PrestaShop module on: https://www.novalnet.de/site_pdf/IG-Prestashop_1.7.8.11-8.1.4_novalnet_13.0.1.pdf<br>
+Find more about PrestaShop module on: https://www.novalnet.de/site_pdf/IG-Prestashop_1.7.8.11-8.1.6_novalnet_13.0.2.pdf<br>
 To test our demo shop, please visit: https://prestashop.novalnet.de
 
 ## Installation
