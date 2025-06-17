@@ -1,5 +1,11 @@
 *** Changelog ***
 
+= 13.1.0   - 2025.06.17
+* New - Implemented TWINT payment
+* Fix - Webhook addresses are dynamically created for each store to handle webhooks seamlessly
+* Enhanced - API/Webhook Response is normalized in the payment plugin for Instalment Payments
+* Enhanced - Payment module has been optimized as per new testcase
+
 = 13.0.2   - 2024.06.03
 * Fix - Compatibility for prestashop version 8.1.6
 * Fix - Database for the Paid_amount column has been appropriately handled during the payment module upgrade
