@@ -1,5 +1,15 @@
 *** Changelog ***
 
+= 13.2.0   - 2026.05.13
+* New - EPC/SPC QR code implemented for Prepayment, Invoice, Invoice with payment guarantee and Instalment by Invoice payments
+* Fix - Compatibility for Prestashop version 9.0.0
+* Fix - Adjusted payment configuration validation to avoid conflicts with other modules
+* Fix - Adjusted payment hooks that were being unregistered during a theme change
+* Fix - Resolved checkout conflict when Novalnet and other payment methods share the same sort order
+* Enhanced - iDEAL payment logo and title to iDEAL | Wero
+* Enhanced - Improved checkout payment form validation and optimized JavaScript to enhance iframe loading performance
+* Removed  - Sofort, giropay and Barzahlen/Viacash payments
+
 = 13.1.0   - 2025.06.17
 * New - Implemented TWINT payment
 * Fix - Webhook addresses are dynamically created for each store to handle webhooks seamlessly
