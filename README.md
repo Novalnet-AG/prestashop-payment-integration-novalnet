@@ -2,7 +2,7 @@
 Novalnet payment module for <a href="https://www.novalnet.com/modul/prestashop-payment-module">PrestaShop</a> simplifies your daily work by automating the entire payment process, from checkout till collection. This module is designed to help you increase your sales by offering various payment methods on a one-page checkout. The module which is perfectly adjusted to the PrestaShop with top-quality range of services of the payment provider.
 
 ## Integration requirements for PrestaShop
-The module is available for the PrestaShop versions 1.6.1.8 to 8.2.1 in the following languages: <b>EN & DE</b>
+The module is available for the PrestaShop versions 1.7.8.0 to 9.1.1-4.0 in the following languages: <b>EN & DE</b>
 
 Through the individuality and flexibility, you can choose which payment methods and services you need. Get now a seamless integration with the various types of payments and payment-related services integrated in the one unique platform.
 
@@ -26,7 +26,7 @@ Through the individuality and flexibility, you can choose which payment methods 
 * One click shopping supported Credit/Debit Cards & Direct Debit SEPA
 * Zero amount authorization supported for Credit/Debit Cards, Direct Debit SEPA, Direct Debit ACH, Apple Pay & Google Pay
 * Easy way of confirmation and cancellation of on-hold transactions for Direct Debit SEPA, Direct Debit SEPA with payment guarantee, Instalment payment for Direct Debit SEPA, Credit/Debit Cards, Invoice, Invoice with payment guarantee, Instalment payment for Invoice, Prepayment, PayPal, Apple Pay & Google Pay
-* Refund option for Credit/Debit Cards, Direct Debit SEPA, Direct Debit ACH, Direct Debit SEPA with payment guarantee, Instalment by Direct Debit SEPA, Invoice, Invoice with payment guarantee, Instalment by Invoice, Prepayment, Barzahlen/viacash, Sofort, iDEAL, eps, giropay, PayPal, MB Way, Przelewy24, PostFinance Card, PostFinance E-Finance, Bancontact, Apple Pay, Google Pay, Online bank transfer, Alipay, WeChat pay, Trustly, Blik, Payconiq & TWINT
+* Refund option for Credit/Debit Cards, Direct Debit SEPA, Direct Debit ACH, Direct Debit SEPA with payment guarantee, Instalment by Direct Debit SEPA, Invoice, Invoice with payment guarantee, Instalment by Invoice, Prepayment, Barzahlen/viacash, Sofort, iDEAL | Wero, eps, giropay, PayPal, MB Way, Przelewy24, PostFinance Card, PostFinance E-Finance, Bancontact, Apple Pay, Google Pay, Online bank transfer, Alipay, WeChat pay, Trustly, Blik & TWINT
 * Responsive templates
 
 ## Integrated payment methods
@@ -41,10 +41,7 @@ Through the individuality and flexibility, you can choose which payment methods 
 - Direct Debit SEPA with payment guarantee
 - Instalment by Invoice
 - Instalment by Direct Debit SEPA
-- iDEAL
-- Sofort
-- giropay
-- Barzahlen/viacash
+- iDEAL | Wero
 - Przelewy24
 - eps
 - PayPal
@@ -58,16 +55,15 @@ Through the individuality and flexibility, you can choose which payment methods 
 - WeChat Pay
 - Trustly
 - Blik
-- Payconiq
 - TWINT
 
 ## More information
-Find more about PrestaShop module on: https://www.novalnet.de/site_pdf/IG-Prestashop_8.0.1-8.2.1_novalnet_13.1.0.pdf<br>
+Find more about PrestaShop module on: https://www.novalnet.de/site_pdf/IG-Prestashop_1.7.8.0-9.1.1-4.0_novalnet_13.2.0.pdf<br>
 To test our demo shop, please visit: https://prestashop.novalnet.de
 
 ## Installation
-Follow the below steps to install the <a href="https://www.novalnet.com/modul/prestashop-payment-module"> Prestashop payment module</a>.
-1. Download the payment module for prestashop from <a href="https://addons.prestashop.com/en/payment-card-wallet/27259-novalnet-payment.html"> here</a> or <a href="https://www.novalnet.de/kontakt/sales"> contact us</a>.
+Follow the below steps to install the <a href="c"> Prestashop payment module</a>.
+1. Download the payment module for prestashop from <a href="h9.1.1-4.0l"> here</a> or <a href="https://www.novalnet.de/kontakt/sales"> contact us</a>.
 2. Upload and install the module in the shop admin panel.
 3. Configure the API keys in the Administration portal.
 4. Enable and activate the payment methods from <a href="https://admin.novalnet.de/"> Novalnet Admin Portal</a>.
