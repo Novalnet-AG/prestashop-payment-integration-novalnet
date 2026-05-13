@@ -59,11 +59,11 @@ Through the individuality and flexibility, you can choose which payment methods 
 
 ## More information
 Find more about PrestaShop module on: https://www.novalnet.de/site_pdf/IG-Prestashop_1.7.8.0-9.1.1-4.0_novalnet_13.2.0.pdf<br>
-To test our demo shop, please visit: https://prestashop.novalnet.de
+To test our demo shop, please visit: [https://prestashop.novalnet.de](https://prestashop.novaldemo.com)
 
 ## Installation
-Follow the below steps to install the <a href="c"> Prestashop payment module</a>.
-1. Download the payment module for prestashop from <a href="h9.1.1-4.0l"> here</a> or <a href="https://www.novalnet.de/kontakt/sales"> contact us</a>.
+Follow the below steps to install the Prestashop payment module.
+1. Download the payment module for prestashop from <a href="(https://addons.prestashop.com/en/payment-card-wallet/27259-novalnet-payment.html)"> here</a> or <a href="https://www.novalnet.de/kontakt/sales"> contact us</a>.
 2. Upload and install the module in the shop admin panel.
 3. Configure the API keys in the Administration portal.
 4. Enable and activate the payment methods from <a href="https://admin.novalnet.de/"> Novalnet Admin Portal</a>.
