@@ -1,6 +1,6 @@
 *** Changelog ***
 
-= 13.2.0   - 2026.05.13
+= 13.2.0   - 2026.05.14
 * New - EPC/SPC QR code implemented for Prepayment, Invoice, Invoice with payment guarantee and Instalment by Invoice payments
 * Fix - Compatibility for Prestashop version 9.0.0
 * Fix - Adjusted payment configuration validation to avoid conflicts with other modules
